@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "image": "/demos/house-22.png",
+    "title": "Residential Interior Designer Services in Delhi",
+    "by": "Our Service",
+    "date": ""
+  },
+  {
+    "id": 2,
+    "image": "/demos/houseq.jpg",
+    "title": "Commercial Interior Designers Services in Delhi",
+    "by": "Our Service ",
+    "date": "Nov 06 2022",
+    "slug": "commercial-interior-design-delhi"
+
+  },
+  {
+    "id": 3,
+    "image": "/demos/Hospital5.jpg",
+    "title": "Hospitality Interior Designer Services in Delhi",
+    "by": "Our Service",
+    "date": "Dec 06 2022"
+  }
+]

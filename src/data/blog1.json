@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "image": "/demos/house44.png",
+    "title": "In Good Taste: Mark Finlay Architects and Interiors",
+    "date": "Dec 06 2022",
+    "date2": ["Dec 2022", "06"]
+  },
+  {
+    "id": 2,
+    "image": "/demos/hose.png",
+    "title": "Five Things You Should Know About Modern Furniture.",
+    "date": "Dec 06 2022",
+    "date2": ["Dec 2022", "06"]
+  },
+  {
+    "id": 3,
+    "image": "/demos/house35.png",
+    "title": "What it's like to be an interior designer?",
+    "date": "Dec 06 2022",
+    "date2": ["Dec 2022", "06"]
+  }
+]

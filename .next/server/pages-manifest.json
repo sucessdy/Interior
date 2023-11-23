@@ -1,0 +1,17 @@
+{
+  "/blogs": "pages/blogs.html",
+  "/about": "pages/about.html",
+  "/_error": "pages/_error.js",
+  "/demos": "pages/demos.html",
+  "/blog-details": "pages/blog-details.html",
+  "/home1": "pages/home1.html",
+  "/_app": "pages/_app.js",
+  "/contact": "pages/contact.html",
+  "/work1": "pages/work1.html",
+  "/": "pages/index.html",
+  "/project-details": "pages/project-details.html",
+  "/_document": "pages/_document.js",
+  "/work3": "pages/work3.html",
+  "/work2": "pages/work2.html",
+  "/404": "pages/404.html"
+}

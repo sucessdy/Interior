@@ -1,0 +1,25 @@
+{
+  "image": "",
+  "services": [
+    {
+      "id": "01",
+      "title": "Architecture Services      ",
+      "content": "Unveiling Possibilities in Every Blueprint: Our Architecture Services Shape Dreams into Reality.      "
+    },
+    {
+      "id": "02",
+      "title": "Interior Designing Services      ",
+      "content": "Turning Spaces into Stories: Our Interior Designing Services Redefine Aesthetics and Comfort.      "
+    },
+    {
+      "id": "03",
+      "title": "Residential Design      ",
+      "content": "Elevating Homes through Thoughtful Design: Our Residential Expertise Transforms Living Spaces.      "
+    },
+    {
+      "id": "04",
+      "title": "Craft Modern Furniture",
+      "content": "Elevate your space with our stylish and comfortable designs"
+    }
+  ]
+}

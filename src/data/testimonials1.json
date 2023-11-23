@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "image": "/demos/per.jpeg",
+        "content": "The interior design team transformed my space beautifully! Every detail was thoughtfully curated, resulting in a home that reflects my style. Highly recommend",
+        "username": "Meena Kaur",
+        "usertitle": "Business women"
+    },
+    {
+      "id": 2,
+      "image": "/demos/peopls.jpg",
+      "content": "Incredible work by the interior design team! They understood my vision, and the attention to detail was top-notch. My home now feels like a true reflection of me. Thank you!",
+      "username": "Sameer ",
+      "usertitle": "Writer"
+    },
+    {
+      "id": 3,
+      "image": "/demos/pople.jpeg",
+      "content": "The interior design team exceeded my expectations! They turned my ideas into a visually stunning and highly efficient space. Grateful for their expertise!",
+      "username": "Anik Jain",
+      "usertitle": "Software Develpor"
+    },
+    {
+      "id": 4,
+      "image": "/demos/persone.jpg",
+      "content": "Best decision for my home renovation! The designers seamlessly blended modern and classic elements, creating a timeless aesthetic. Highly recommend their services!",
+      "username": "Satyam",
+      "usertitle": "Student"
+    }
+]

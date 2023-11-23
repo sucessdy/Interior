@@ -1,0 +1,29 @@
+{
+  "title": {
+    "first": "We create more than",
+    "second": "just interior"
+  },
+  "image": "/demos/house01.jpeg",
+  "content": " At Interior Wale, we are passionate about creating exceptional living spaces that resonate with your unique style and preferences. With a keen eye for design and a commitment to quality, we transform houses into homes and offices into inspiring work environments. Our talented team of designers and craftsmen work tirelessly to blend aesthetics with functionality. ",
+  "exp": {
+    "nmb": 10,
+    "since": "2010"
+  },
+  "numbers": [
+    {
+      "id": 1,
+      "number": 895,
+      "name": "HAPPY CUSTOMER"
+    },
+    {
+      "id": 2,
+      "number": 10,
+      "name": "AWARDS WON"
+    },
+    {
+      "id": 3,
+      "number": 95,
+      "name": "UNDERGO TRAINING"
+    }
+  ]
+}

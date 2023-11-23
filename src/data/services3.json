@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "image": "/demos/home.jpg",
+    "icon": "icon flaticon-home-1",
+    "title": "Durability",
+    "content": "Explore enduring designs with our first-class durability, ensuring that every element stands the test of time"
+  },
+  {
+    "id": 2,
+    "image": "/demos/h.png",
+    "icon": "icon flaticon-living-room",
+    "title": "Modern Interior",
+    "content": "Indulge in contemporary luxury with our modern interiors, backed by an exclusive 10-year warranty for lasting excellence"
+
+    
+  },
+  {
+    "id": 3,
+    "image": "/demos/houee2.png",
+    "icon": "icon flaticon-interior-design",
+    "title": "Professional team",
+    "content": "Indulge in contemporary luxury with our modern interiors, backed by an exclusive 10-year warranty for lasting excellence"
+  }
+]

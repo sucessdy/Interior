@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "title": { "first": "", "second": "Elevate your Home Design" },
+    "content": {
+      "first": "Discover the art of Home design that Redefines elegnace .",
+      "second": "Our Curated Design Ideas will inspire you to Transform your space"
+    },
+    "image": "/demos/house023.png"
+  },
+  {
+    "id": 2,
+    "title": { "first": "","second": "Transform your space"  },
+    "content": {
+      "first": "",
+      "second": "business. a style that makes a statement."
+    },
+    "image":"/demos/house01.jpeg"
+  },
+  {
+    "id": 3,
+    "title": { "first": "", "second": "Best interior Design" },
+    "content": {
+      "first": "Right design and right ideas matter a lot of in interior design",
+      "second": "business. a style that makes a statement."
+    },
+    "image": "/demos/house0011.png"
+  },
+  {
+    "id": 4,
+    "title": {
+      "first": "",
+      "second": "Lets make your dream interior"
+    },
+    "content": {
+      "first": "Right design and right ideas matter a lot of in interior design",
+      "second": "business. a style that makes a statement."
+    },
+    "image": "/demos/home.jpg"
+  }
+]

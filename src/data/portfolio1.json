@@ -1,0 +1,49 @@
+{
+  "filtersName": [
+    {
+      "id": 1,
+      "name": "Interior",
+      "filterClass": ".interior"
+    },
+    {
+      "id": 2,
+      "name": "theaters",
+      "filterClass": ".theaters"
+    },
+    {
+      "id": 3,
+      "name": "Residential",
+      "filterClass": ".residential"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": 1,
+      "image": "/assets/img/portfolio/mas/house01.jpeg",
+      "title": "Smart Design",
+      "tag": " Living room",
+      "filterClass": "theaters"
+    },
+    {
+      "id": 2,
+      "image": "/assets/img/portfolio/mas/House03.jpeg",
+      "title": "Modern Design",
+      "tag": "Kitchen",
+      "filterClass": "interior"
+    },
+    {
+      "id": 3,
+      "image": "/assets/img/portfolio/mas/house07.png",
+      "title": "Minial Interior",
+      "tag": "Commerical",
+      "filterClass": "residential"
+    },
+    {
+      "id": 4,
+      "image": "/assets/img/portfolio/mas/house02.png",
+      "title": " Scandi Apartment",
+      "tag": "Interior Design",
+      "filterClass": "interior theaters"
+    }
+  ]
+}
